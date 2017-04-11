@@ -294,8 +294,3 @@ knn_word_count.query(victoria)
 
 knn_tfidf.query(victoria)
 
-
-# In[ ]:
-
-
-
