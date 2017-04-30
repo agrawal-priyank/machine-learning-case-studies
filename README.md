@@ -1,2 +1,2 @@
-# Machine-Learning-Case-Studies_Coursera
-Assignments of the MOOC provided by University of Washington, Seattle on Coursera.
+# Machine Learning: Case Studies
+Various case studies using different machine learning algorithms in python.
