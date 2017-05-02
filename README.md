@@ -2,7 +2,6 @@
 Various case studies using different machine learning algorithms in python.
 
 # Description
-Performed analysis and made optimal prediction models for Document Retrieval, Image Retrieval, House Dataset, Songs and Sentiments.
 ## Clustering and Similarity:
 1. Implemented K nearest neighbors (KNN) for document retrieval of similar documents.
 2. Calculated similarity using tf-idf for every document present in the corpus and the distance between two documents using cosine distance.
