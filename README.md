@@ -12,7 +12,7 @@
 1. Implemented simple popularity based recommender model based on total times each song has been played and personalized song recommender model and concluded the latter model to be more accurate.
 2. Performed analysis to find most recommended song, similar songs and recommend each user with a different list of songs based on the past history of songs the user has listened.
 
-###
+### Code
 1. [Clustering & Similarity - Document Retrieval](https://github.com/agrawal-priyank/machine-learning-case-studies/tree/master/clustering-similarity-document-retrieval)
 2. [Deep Learning - Image Retrieval](https://github.com/agrawal-priyank/machine-learning-case-studies/tree/master/deep-learning-image-retrieval)
 3. [Linear Regression - House Prices](https://github.com/agrawal-priyank/machine-learning-case-studies/tree/master/linear-regression-house-prices)
