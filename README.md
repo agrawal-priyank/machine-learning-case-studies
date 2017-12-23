@@ -25,4 +25,4 @@
 Python
 
 ### ML Packages
-Graphlab Create
+Graphlab Create ([Installation guide](https://turi.com/learn/coursera/))
