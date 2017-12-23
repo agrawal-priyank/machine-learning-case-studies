@@ -2,7 +2,7 @@
 
 ### Description
 #### Clustering and Similarity:
-1. Implemented K nearest neighbors (KNN) for document retrieval of similar documents.
+1. Implemented k nearest neighbors (KNN) for document retrieval of similar documents.
 2. Calculated similarity using tf-idf for every document present in the corpus and the distance between two documents using cosine distance.
 3. Performed document retrieval using these distances and queries such as top 5 documents closest to any given document. 
 #### Deep Learning:
