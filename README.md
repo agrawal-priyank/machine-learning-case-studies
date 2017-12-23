@@ -19,6 +19,8 @@
 4. [Logistic Classifier - Sentiments](https://github.com/agrawal-priyank/machine-learning-case-studies/tree/master/logistic-classifier-sentiments)
 5. [Recommender System - Songs](https://github.com/agrawal-priyank/machine-learning-case-studies/tree/master/recommender-system-songs)
 
+### [Data](https://github.com/agrawal-priyank/machine-learning-case-studies/tree/master/data)
+
 ### Programming Language
 Python
 
