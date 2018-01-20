@@ -1,16 +1,18 @@
-## Machine Learning: Case Studies
+## Machine Learning Case Studies
 
 ### Description
-#### Clustering and Similarity:
-1. Implemented k nearest neighbors (KNN) for document retrieval of similar documents.
-2. Calculated similarity using tf-idf for every document present in the corpus and the distance between two documents using cosine distance.
-3. Performed document retrieval using these distances and queries such as top 5 documents closest to any given document. 
-#### Deep Learning:
-1. Implemented transfer learning to extract the deep features of the imagenet model and trained the KNN model with these extracted deep features.
-2. Performed image retrieval by calculating the distance between any two images using the trained model.
-#### Personalized Song Recommender System:
-1. Implemented simple popularity based recommender model based on total times each song has been played and personalized song recommender model and concluded the latter model to be more accurate.
-2. Performed analysis to find most recommended song, similar songs and recommend each user with a different list of songs based on the past history of songs the user has listened.
+#### Document Retrieval using Clustering and Similarity:
+* Used the k nearest neighbors algorithm for document retrieval of similar documents.
+* Calculated similarity using tf-idf for every document present in the corpus and the distance between two documents using cosine distance.
+* Performed queries such as top 5 documents closest to the given document. 
+
+#### Image Retrieval using Transfer and Deep Learning:
+* Used transfer learning technique to extract the deep features of the image-net model and trained a k nearest neighbors model with these extracted deep features.
+* Performed image retrieval by calculating the distance between any two images using the trained model.
+
+#### Personalized Song Recommender using Item Similarity:
+* Created a simple popularity based recommender based on total times each song has been played and personalized song recommender and concluded the latter to be more accurate.
+* Performed analysis to find most recommended song, similar songs, and recommended each user with a different list of songs based on the past history of songs the user has listened to.
 
 ### Code
 1. [Clustering & Similarity - Document Retrieval](https://github.com/agrawal-priyank/machine-learning-case-studies/tree/master/clustering-similarity-document-retrieval)
@@ -24,8 +26,11 @@
 ### Programming Language
 Python
 
-### ML Packages
-Graphlab Create [Installation guide](https://turi.com/learn/coursera/)
+### Packages
+Anaconda, Graphlab Create [Installation guide](https://turi.com/learn/coursera/)
+
+### Tools/IDE 
+Jupyter notebook (IPython)
 
 ### How to use it
 1. Fork this repository to have your own copy
@@ -33,4 +38,4 @@ Graphlab Create [Installation guide](https://turi.com/learn/coursera/)
 3. Install necessary packages
 
 ### Note
-This repository does not contain optimal machine learning models! It only assesses various models that can be made using different machine learning algorithms (either implemented or used directly from Graphlab Create package) to perform different tasks.
+This repository does not contain optimal machine learning models! It only assesses various models that can be built using different machine learning algorithms (either implemented or used directly from Graphlab Create package) to perform different tasks.
